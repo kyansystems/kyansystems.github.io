@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyan Systems</title>
+    <link>https://kyansystems.com/</link>
+    <description>Recent content on Kyan Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kyansystems.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kyansystems.com/about/</link>
+      <pubDate>Thu, 27 Jan 2022 17:25:34 +0000</pubDate>
+      
+      <guid>https://kyansystems.com/about/</guid>
+      <description>Kyan Systems is a worker-owned cooperative building software and hardware solutions for a fundamentally new vision of the internet. Founded in 2020, we are committed to a fair, equitable, and functional vision of software and hardware solutions that do not rely on exploitative unpaid labor, ruinous per-call streaming usage models, or inserting middlemen to act as toll booths or increase complexity at the cost of security.
+We ask ourselves: what would really good basics look like?</description>
+    </item>
+    
+  </channel>
+</rss>
